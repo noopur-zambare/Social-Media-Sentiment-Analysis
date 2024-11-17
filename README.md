@@ -6,6 +6,5 @@ This repository contains code for a sentiment analysis model for social media co
 - Negative (-1)
 
 ### Accuracy
-
 - Reddit Dataset: 84.13%
 - Twitter Dataset: 83.95%
